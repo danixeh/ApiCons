@@ -9,7 +9,7 @@ function App() {
   console.log(user);
   return (
     <div className="App">
-  
+  <Header/>
       
     </div>
   )
@@ -18,4 +18,4 @@ function App() {
 export default App
 
 
-axios
+
